@@ -11,10 +11,10 @@ This is a **Tic-Tac-Toe** game built using **React**. The game allows two player
 - ✅ Displays **winner or draw message**  
 - ✅ Simple and clean **UI design**  
 
-Technologies Used
-⚛️ React (useState, useEffect)
-📝 JavaScript (ES6+)
-🎨 CSS (for styling)
+##  Technologies Used
+- ⚛️ React (useState, useEffect)
+- 📝 JavaScript (ES6+)
+- 🎨 CSS (for styling)
 
 
 ## 🚀 Installation & Setup  
